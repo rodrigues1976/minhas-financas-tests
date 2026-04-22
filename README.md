@@ -1,4 +1,4 @@
-# 🧪 Testes Automatizados — Minhas Finanças
+# 🧪 Testes Automatizados  Minhas Finanças
 
 ## 📌 Objetivo
 
